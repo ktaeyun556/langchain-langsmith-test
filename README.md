@@ -80,3 +80,13 @@ PDF 내용을 기반으로 질문할 수 있는 대화형 챗봇을 실행합니
 ```bash
 python qa_bot.py
 ```
+
+---
+
+## LangSmith 트레이싱 화면
+
+챗봇 실행 시 LangSmith 대시보드에서 LLM 호출 흐름과 로그를 실시간으로 확인할 수 있습니다.
+
+![LangSmith 트레이싱 화면 1](https://github.com/user-attachments/assets/a4324bc2-aaef-409f-a550-70e06b116775)
+
+![LangSmith 트레이싱 화면 2](https://github.com/user-attachments/assets/e25384f5-4192-4819-a54c-6aedc13c6111)
